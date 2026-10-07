@@ -1,0 +1,758 @@
+{
+  "14094049": {
+    "page": "get-started",
+    "tab": "about",
+    "anchor": "a-14094049",
+    "url": "get-started.html#a-14094049",
+    "articleUrl": "en/articles/14094049-how-do-futures-prop-accounts-work"
+  },
+  "14094453": {
+    "page": "get-started",
+    "tab": "about",
+    "anchor": "a-14094453",
+    "url": "get-started.html#a-14094453",
+    "articleUrl": "en/articles/14094453-what-is-goat-funded-futures"
+  },
+  "14094457": {
+    "page": "get-started",
+    "tab": "markets",
+    "anchor": "a-14094457",
+    "url": "get-started.html#a-14094457",
+    "articleUrl": "en/articles/14094457-what-products-instruments-can-i-trade"
+  },
+  "14094462": {
+    "page": "get-started",
+    "tab": "markets",
+    "anchor": "a-14094462",
+    "url": "get-started.html#a-14094462",
+    "articleUrl": "en/articles/14094462-what-are-the-trading-hours"
+  },
+  "14094464": {
+    "page": "get-started",
+    "tab": "about",
+    "anchor": "a-14094464",
+    "url": "get-started.html#a-14094464",
+    "articleUrl": "en/articles/14094464-is-this-real-money"
+  },
+  "14094470": {
+    "page": "get-started",
+    "tab": "account",
+    "anchor": "a-14094470",
+    "url": "get-started.html#a-14094470",
+    "articleUrl": "en/articles/14094470-which-countries-are-restricted"
+  },
+  "14094690": {
+    "page": "get-started",
+    "tab": "account",
+    "anchor": "a-14094690",
+    "url": "get-started.html#a-14094690",
+    "articleUrl": "en/articles/14094690-how-do-i-create-an-account"
+  },
+  "14094694": {
+    "page": "plans",
+    "tab": "plans",
+    "anchor": "a-14094694",
+    "url": "plans.html#a-14094694",
+    "articleUrl": "en/articles/14094694-what-plans-do-you-offer"
+  },
+  "14094715": {
+    "page": "plans",
+    "tab": "plans",
+    "anchor": "a-14094715",
+    "url": "plans.html#a-14094715",
+    "articleUrl": "en/articles/14094715-what-is-the-difference-between-our-plans"
+  },
+  "14094895": {
+    "page": "plans",
+    "tab": "plans",
+    "anchor": "a-14094895",
+    "url": "plans.html#a-14094895",
+    "articleUrl": "en/articles/14094895-can-i-upgrade-or-switch-from-one-plan-to-another"
+  },
+  "14094899": {
+    "page": "plans",
+    "tab": "targets",
+    "anchor": "a-14094899",
+    "url": "plans.html#a-14094899",
+    "articleUrl": "en/articles/14094899-what-are-the-profit-targets-for-each-plan"
+  },
+  "14095302": {
+    "page": "eod-challenge",
+    "tab": null,
+    "anchor": "",
+    "url": "eod-challenge.html",
+    "articleUrl": "en/articles/14095302-eod-challenge-specifications-rules-and-payouts"
+  },
+  "14095577": {
+    "page": "1-day-pass",
+    "tab": null,
+    "anchor": "",
+    "url": "1-day-pass.html",
+    "articleUrl": "en/articles/14095577-1-day-pass-plan-specifications-rules-and-payouts"
+  },
+  "14095625": {
+    "page": "instant-classic",
+    "tab": null,
+    "anchor": "",
+    "url": "instant-classic.html",
+    "articleUrl": "en/articles/14095625-instant-classic-specifications-rules-and-payouts"
+  },
+  "14095663": {
+    "page": "payouts",
+    "tab": "requirements",
+    "anchor": "a-14095663",
+    "url": "payouts.html#a-14095663",
+    "articleUrl": "en/articles/14095663-payout-requirements-winning-days-first-payout-and-request-windows"
+  },
+  "14095672": {
+    "page": "payouts",
+    "tab": "consistency",
+    "anchor": "a-14095672",
+    "url": "payouts.html#a-14095672",
+    "articleUrl": "en/articles/14095672-how-does-the-consistency-rule-affect-payouts"
+  },
+  "14095688": {
+    "page": "payouts",
+    "tab": "caps",
+    "anchor": "a-14095688",
+    "url": "payouts.html#a-14095688",
+    "articleUrl": "en/articles/14095688-what-is-the-profit-split"
+  },
+  "14095690": {
+    "page": "payouts",
+    "tab": "caps",
+    "anchor": "a-14095690",
+    "url": "payouts.html#a-14095690",
+    "articleUrl": "en/articles/14095690-what-are-the-payout-caps-and-minimum-payout-amounts"
+  },
+  "14095695": {
+    "page": "payouts",
+    "tab": "timing",
+    "anchor": "a-14095695",
+    "url": "payouts.html#a-14095695",
+    "articleUrl": "en/articles/14095695-how-are-payouts-sent-and-how-long-do-they-take"
+  },
+  "14095703": {
+    "page": "payouts",
+    "tab": "kyc",
+    "anchor": "a-14095703",
+    "url": "payouts.html#a-14095703",
+    "articleUrl": "en/articles/14095703-do-i-need-kyc-verification-for-payouts"
+  },
+  "14110198": {
+    "page": "drawdown",
+    "tab": "trailing",
+    "anchor": "a-14110198",
+    "url": "drawdown.html#a-14110198",
+    "articleUrl": "en/articles/14110198-what-is-a-trailing-drawdown"
+  },
+  "14110308": {
+    "page": "drawdown",
+    "tab": "trailing",
+    "anchor": "a-14110308",
+    "url": "drawdown.html#a-14110308",
+    "articleUrl": "en/articles/14110308-what-is-the-difference-between-eod-trailing-and-intraday-trailing-drawdown"
+  },
+  "14110312": {
+    "page": "drawdown",
+    "tab": "trailing",
+    "anchor": "a-14110312",
+    "url": "drawdown.html#a-14110312",
+    "articleUrl": "en/articles/14110312-how-does-intraday-trailing-drawdown-work"
+  },
+  "14110319": {
+    "page": "drawdown",
+    "tab": "trailing",
+    "anchor": "a-14110319",
+    "url": "drawdown.html#a-14110319",
+    "articleUrl": "en/articles/14110319-what-does-drawdown-lock-or-dd-lock-mean"
+  },
+  "14110328": {
+    "page": "drawdown",
+    "tab": "daily",
+    "anchor": "a-14110328",
+    "url": "drawdown.html#a-14110328",
+    "articleUrl": "en/articles/14110328-is-there-a-daily-loss-limit"
+  },
+  "14110334": {
+    "page": "drawdown",
+    "tab": "breach",
+    "anchor": "a-14110334",
+    "url": "drawdown.html#a-14110334",
+    "articleUrl": "en/articles/14110334-what-happens-if-i-breach-the-drawdown-or-daily-loss-limit"
+  },
+  "14110335": {
+    "page": "trading-rules",
+    "tab": "news",
+    "anchor": "a-14110335",
+    "url": "trading-rules.html#a-14110335",
+    "articleUrl": "en/articles/14110335-can-i-trade-during-news-events"
+  },
+  "14110340": {
+    "page": "trading-rules",
+    "tab": "overnight",
+    "anchor": "a-14110340",
+    "url": "trading-rules.html#a-14110340",
+    "articleUrl": "en/articles/14110340-can-i-hold-positions-overnight"
+  },
+  "14110352": {
+    "page": "platforms",
+    "tab": "platforms",
+    "anchor": "a-14110352",
+    "url": "platforms.html#a-14110352",
+    "articleUrl": "en/articles/14110352-what-trading-platforms-are-supported"
+  },
+  "14110356": {
+    "page": "platforms",
+    "tab": "platforms",
+    "anchor": "a-14110356",
+    "url": "platforms.html#a-14110356",
+    "articleUrl": "en/articles/14110356-how-do-i-connect-to-my-trading-platform"
+  },
+  "14110358": {
+    "page": "platforms",
+    "tab": "tradovate",
+    "anchor": "a-14110358",
+    "url": "platforms.html#a-14110358",
+    "articleUrl": "en/articles/14110358-i-m-having-trouble-logging-into-tradovate-what-should-i-do"
+  },
+  "14110370": {
+    "page": "platforms",
+    "tab": "tradovate",
+    "anchor": "a-14110370",
+    "url": "platforms.html#a-14110370",
+    "articleUrl": "en/articles/14110370-how-do-i-connect-my-account-to-tradingview"
+  },
+  "14110377": {
+    "page": "platforms",
+    "tab": "data",
+    "anchor": "a-14110377",
+    "url": "platforms.html#a-14110377",
+    "articleUrl": "en/articles/14110377-what-is-mds-market-data-subscription-and-do-i-need-to-set-it-up"
+  },
+  "14110381": {
+    "page": "platforms",
+    "tab": "platforms",
+    "anchor": "a-14110381",
+    "url": "platforms.html#a-14110381",
+    "articleUrl": "en/articles/14110381-can-i-switch-my-platform-after-purchase"
+  },
+  "14110384": {
+    "page": "platforms",
+    "tab": "platforms",
+    "anchor": "a-14110384",
+    "url": "platforms.html#a-14110384",
+    "articleUrl": "en/articles/14110384-i-m-in-a-country-where-tradovate-is-restricted-what-are-my-options"
+  },
+  "14110387": {
+    "page": "platforms",
+    "tab": "commissions",
+    "anchor": "a-14110387",
+    "url": "platforms.html#a-14110387",
+    "articleUrl": "en/articles/14110387-is-there-a-commission-on-trades"
+  },
+  "14110395": {
+    "page": "platforms",
+    "tab": "data",
+    "anchor": "a-14110395",
+    "url": "platforms.html#a-14110395",
+    "articleUrl": "en/articles/14110395-should-i-self-certify-as-professional-or-non-professional"
+  },
+  "14110396": {
+    "page": "platforms",
+    "tab": "data",
+    "anchor": "a-14110396",
+    "url": "platforms.html#a-14110396",
+    "articleUrl": "en/articles/14110396-what-happens-if-i-self-certified-as-a-professional-by-mistake-when-accepting-the-exchange-t-c"
+  },
+  "14110403": {
+    "page": "platforms",
+    "tab": "data",
+    "anchor": "a-14110403",
+    "url": "platforms.html#a-14110403",
+    "articleUrl": "en/articles/14110403-what-market-data-is-included-in-my-challenge"
+  },
+  "14110566": {
+    "page": "account-security",
+    "tab": "accounts",
+    "anchor": "a-14110566",
+    "url": "account-security.html#a-14110566",
+    "articleUrl": "en/articles/14110566-how-many-accounts-can-i-have"
+  },
+  "14110582": {
+    "page": "manage-account",
+    "tab": "resets",
+    "anchor": "a-14110582",
+    "url": "manage-account.html#a-14110582",
+    "articleUrl": "en/articles/14110582-can-i-reset-my-challenge-account-if-i-fail"
+  },
+  "14110591": {
+    "page": "manage-account",
+    "tab": "inactivity",
+    "anchor": "a-14110591",
+    "url": "manage-account.html#a-14110591",
+    "articleUrl": "en/articles/14110591-is-there-an-inactivity-policy"
+  },
+  "14110599": {
+    "page": "manage-account",
+    "tab": "status",
+    "anchor": "a-14110599",
+    "url": "manage-account.html#a-14110599",
+    "articleUrl": "en/articles/14110599-can-i-change-my-account-size-after-purchasing"
+  },
+  "14110620": {
+    "page": "manage-account",
+    "tab": "status",
+    "anchor": "a-14110620",
+    "url": "manage-account.html#a-14110620",
+    "articleUrl": "en/articles/14110620-where-can-i-see-my-account-status-and-trading-stats"
+  },
+  "14110629": {
+    "page": "billing",
+    "tab": "after",
+    "anchor": "a-14110629",
+    "url": "billing.html#a-14110629",
+    "articleUrl": "en/articles/14110629-i-just-paid-when-will-i-receive-my-account-credentials"
+  },
+  "14110651": {
+    "page": "billing",
+    "tab": "after",
+    "anchor": "a-14110651",
+    "url": "billing.html#a-14110651",
+    "articleUrl": "en/articles/14110651-i-completed-payment-but-haven-t-received-my-login-details-what-should-i-do"
+  },
+  "14110663": {
+    "page": "billing",
+    "tab": "after",
+    "anchor": "a-14110663",
+    "url": "billing.html#a-14110663",
+    "articleUrl": "en/articles/14110663-how-do-i-know-if-my-account-is-active-and-ready-to-trade"
+  },
+  "14110673": {
+    "page": "billing",
+    "tab": "after",
+    "anchor": "a-14110673",
+    "url": "billing.html#a-14110673",
+    "articleUrl": "en/articles/14110673-my-payment-went-through-but-i-cannot-see-my-account-what-happened"
+  },
+  "14110680": {
+    "page": "billing",
+    "tab": "problems",
+    "anchor": "a-14110680",
+    "url": "billing.html#a-14110680",
+    "articleUrl": "en/articles/14110680-my-order-is-showing-as-pending-what-should-i-do"
+  },
+  "14110691": {
+    "page": "billing",
+    "tab": "problems",
+    "anchor": "a-14110691",
+    "url": "billing.html#a-14110691",
+    "articleUrl": "en/articles/14110691-my-payment-failed-what-should-i-do"
+  },
+  "14110703": {
+    "page": "billing",
+    "tab": "problems",
+    "anchor": "a-14110703",
+    "url": "billing.html#a-14110703",
+    "articleUrl": "en/articles/14110703-i-tried-to-checkout-but-it-asked-me-to-log-in-first-is-that-required"
+  },
+  "14110716": {
+    "page": "billing",
+    "tab": "problems",
+    "anchor": "a-14110716",
+    "url": "billing.html#a-14110716",
+    "articleUrl": "en/articles/14110716-i-was-charged-twice-what-should-i-do"
+  },
+  "14111092": {
+    "page": "billing",
+    "tab": "fees",
+    "anchor": "a-14111092",
+    "url": "billing.html#a-14111092",
+    "articleUrl": "en/articles/14111092-is-there-an-activation-fee"
+  },
+  "14111104": {
+    "page": "billing",
+    "tab": "fees",
+    "anchor": "a-14111104",
+    "url": "billing.html#a-14111104",
+    "articleUrl": "en/articles/14111104-can-i-get-a-refund"
+  },
+  "14111116": {
+    "page": "billing",
+    "tab": "fees",
+    "anchor": "a-14111116",
+    "url": "billing.html#a-14111116",
+    "articleUrl": "en/articles/14111116-are-the-plans-a-subscription-model-or-a-one-time-fee"
+  },
+  "14111129": {
+    "page": "billing",
+    "tab": "fees",
+    "anchor": "a-14111129",
+    "url": "billing.html#a-14111129",
+    "articleUrl": "en/articles/14111129-do-you-offer-discounts-or-promo-codes"
+  },
+  "14111144": {
+    "page": "manage-account",
+    "tab": "resets",
+    "anchor": "a-14111144",
+    "url": "manage-account.html#a-14111144",
+    "articleUrl": "en/articles/14111144-what-is-the-reset-fee-and-how-does-it-compare-to-buying-a-new-account"
+  },
+  "14111154": {
+    "page": "support",
+    "tab": "support",
+    "anchor": "a-14111154",
+    "url": "support.html#a-14111154",
+    "articleUrl": "en/articles/14111154-how-do-i-contact-support"
+  },
+  "14111168": {
+    "page": "drawdown",
+    "tab": "breach",
+    "anchor": "a-14111168",
+    "url": "drawdown.html#a-14111168",
+    "articleUrl": "en/articles/14111168-i-believe-my-account-was-wrongfully-breached-what-do-i-do"
+  },
+  "14111179": {
+    "page": "support",
+    "tab": "support",
+    "anchor": "a-14111179",
+    "url": "support.html#a-14111179",
+    "articleUrl": "en/articles/14111179-what-is-the-best-time-to-reach-support"
+  },
+  "14111195": {
+    "page": "account-security",
+    "tab": "vps",
+    "anchor": "a-14111195",
+    "url": "account-security.html#a-14111195",
+    "articleUrl": "en/articles/14111195-can-i-use-a-vps"
+  },
+  "14111214": {
+    "page": "trading-rules",
+    "tab": "automation",
+    "anchor": "a-14111214",
+    "url": "trading-rules.html#a-14111214",
+    "articleUrl": "en/articles/14111214-can-i-use-trading-bots-or-automated-strategies-eas"
+  },
+  "14111227": {
+    "page": "trading-rules",
+    "tab": "prohibited",
+    "anchor": "a-14111227",
+    "url": "trading-rules.html#a-14111227",
+    "articleUrl": "en/articles/14111227-what-strategies-are-prohibited"
+  },
+  "14111240": {
+    "page": "account-security",
+    "tab": "accounts",
+    "anchor": "a-14111240",
+    "url": "account-security.html#a-14111240",
+    "articleUrl": "en/articles/14111240-can-i-share-my-account-with-someone-else"
+  },
+  "14130422": {
+    "page": "trading-rules",
+    "tab": "holding",
+    "anchor": "a-14130422",
+    "url": "trading-rules.html#a-14130422",
+    "articleUrl": "en/articles/14130422-holding-time-rules-on-each-plan"
+  },
+  "14130425": {
+    "page": "trading-rules",
+    "tab": "news",
+    "anchor": "a-14130425",
+    "url": "trading-rules.html#a-14130425",
+    "articleUrl": "en/articles/14130425-can-i-keep-a-position-open-through-a-high-impact-news-event-on-my-account"
+  },
+  "14162895": {
+    "page": "manage-account",
+    "tab": "resets",
+    "anchor": "a-14162895",
+    "url": "manage-account.html#a-14162895",
+    "articleUrl": "en/articles/14162895-how-many-times-can-i-reset-my-account"
+  },
+  "14184385": {
+    "page": "get-started",
+    "tab": "account",
+    "anchor": "a-14184385",
+    "url": "get-started.html#a-14184385",
+    "articleUrl": "en/articles/14184385-how-long-does-it-take-to-get-my-funded-account"
+  },
+  "14185552": {
+    "page": "trading-rules",
+    "tab": "holding",
+    "anchor": "a-14185552",
+    "url": "trading-rules.html#a-14185552",
+    "articleUrl": "en/articles/14185552-can-i-take-partial-profit-from-my-trade-within-2-minutes-of-opening-the-trade"
+  },
+  "14196439": {
+    "page": "platforms",
+    "tab": "data",
+    "anchor": "a-14196439",
+    "url": "platforms.html#a-14196439",
+    "articleUrl": "en/articles/14196439-can-i-add-l2-market-data-depth-of-market-to-my-accounts"
+  },
+  "14198049": {
+    "page": "payouts",
+    "tab": "kyc",
+    "anchor": "a-14198049",
+    "url": "payouts.html#a-14198049",
+    "articleUrl": "en/articles/14198049-how-long-does-it-take-to-complete-kyc"
+  },
+  "14228047": {
+    "page": "trading-rules",
+    "tab": "overnight",
+    "anchor": "a-14228047",
+    "url": "trading-rules.html#a-14228047",
+    "articleUrl": "en/articles/14228047-at-what-time-must-i-close-my-trades-to-avoid-holding-a-position-overnight"
+  },
+  "14323143": {
+    "page": "platform-licenses",
+    "tab": "other",
+    "anchor": "a-14323143",
+    "url": "platform-licenses.html#a-14323143",
+    "articleUrl": "en/articles/14323143-how-can-i-navigate-deepcharts-better"
+  },
+  "14323158": {
+    "page": "get-started",
+    "tab": "account",
+    "anchor": "a-14323158",
+    "url": "get-started.html#a-14323158",
+    "articleUrl": "en/articles/14323158-are-giveaway-accounts-treated-the-same-way-as-normal-accounts"
+  },
+  "14343497": {
+    "page": "account-security",
+    "tab": "accounts",
+    "anchor": "a-14343497",
+    "url": "account-security.html#a-14343497",
+    "articleUrl": "en/articles/14343497-i-want-to-buy-5-accounts-how-do-i-trade-them-simultaneously"
+  },
+  "14459574": {
+    "page": "trading-rules",
+    "tab": "holding",
+    "anchor": "a-14459574",
+    "url": "trading-rules.html#a-14459574",
+    "articleUrl": "en/articles/14459574-why-do-you-have-a-minimum-holding-time-rule"
+  },
+  "14523731": {
+    "page": "plans",
+    "tab": "specifications",
+    "anchor": "a-14523731",
+    "url": "plans.html#a-14523731",
+    "articleUrl": "en/articles/14523731-what-are-the-specifications-of-each-type-and-account-size"
+  },
+  "14634041": {
+    "page": "account-security",
+    "tab": "accounts",
+    "anchor": "a-14634041",
+    "url": "account-security.html#a-14634041",
+    "articleUrl": "en/articles/14634041-how-many-emails-can-i-register"
+  },
+  "14644197": {
+    "page": "drawdown",
+    "tab": "breach",
+    "anchor": "a-14644197",
+    "url": "drawdown.html#a-14644197",
+    "articleUrl": "en/articles/14644197-can-i-reset-my-funded-account"
+  },
+  "14888545": {
+    "page": "flex-challenge",
+    "tab": null,
+    "anchor": "",
+    "url": "flex-challenge.html",
+    "articleUrl": "en/articles/14888545-flex-challenge-specifications-rules-and-payouts"
+  },
+  "15079218": {
+    "page": "payouts",
+    "tab": "kyc",
+    "anchor": "a-15079218",
+    "url": "payouts.html#a-15079218",
+    "articleUrl": "en/articles/15079218-kyc-identity-verification-policy"
+  },
+  "15166685": {
+    "page": "platform-licenses",
+    "tab": "atas",
+    "anchor": "a-15166685",
+    "url": "platform-licenses.html#a-15166685",
+    "articleUrl": "en/articles/15166685-how-to-install-atas-on-windows"
+  },
+  "15166707": {
+    "page": "platform-licenses",
+    "tab": "atas",
+    "anchor": "a-15166707",
+    "url": "platform-licenses.html#a-15166707",
+    "articleUrl": "en/articles/15166707-how-to-connect-goat-funded-futures-account"
+  },
+  "15166718": {
+    "page": "platform-licenses",
+    "tab": "atas",
+    "anchor": "a-15166718",
+    "url": "platform-licenses.html#a-15166718",
+    "articleUrl": "en/articles/15166718-are-there-any-limitations-for-this-license"
+  },
+  "15166723": {
+    "page": "platform-licenses",
+    "tab": "atas",
+    "anchor": "a-15166723",
+    "url": "platform-licenses.html#a-15166723",
+    "articleUrl": "en/articles/15166723-can-i-use-this-license-for-a-goat-funded-futures-funded-account"
+  },
+  "15166729": {
+    "page": "platform-licenses",
+    "tab": "atas",
+    "anchor": "a-15166729",
+    "url": "platform-licenses.html#a-15166729",
+    "articleUrl": "en/articles/15166729-do-i-need-to-purchase-an-atas-license"
+  },
+  "15202079": {
+    "page": "affiliates",
+    "tab": "affiliates",
+    "anchor": "a-15202079",
+    "url": "affiliates.html#a-15202079",
+    "articleUrl": "en/articles/15202079-affiliate-program"
+  },
+  "15223012": {
+    "page": "trading-rules",
+    "tab": "prohibited",
+    "anchor": "a-15223012",
+    "url": "trading-rules.html#a-15223012",
+    "articleUrl": "en/articles/15223012-tick-scalping-unrealistic-trading-practices"
+  },
+  "15338555": {
+    "page": "platform-licenses",
+    "tab": "other",
+    "anchor": "a-15338555",
+    "url": "platform-licenses.html#a-15338555",
+    "articleUrl": "en/articles/15338555-what-features-do-i-get-with-the-quantower-license"
+  },
+  "15563188": {
+    "page": "path-to-live",
+    "tab": "qualify",
+    "anchor": "a-15563188",
+    "url": "path-to-live.html#a-15563188",
+    "articleUrl": "en/articles/15563188-what-is-the-path-to-live"
+  },
+  "15563227": {
+    "page": "path-to-live",
+    "tab": "qualify",
+    "anchor": "a-15563227",
+    "url": "path-to-live.html#a-15563227",
+    "articleUrl": "en/articles/15563227-eligibility-how-do-i-qualify-for-a-live-account"
+  },
+  "15563248": {
+    "page": "path-to-live",
+    "tab": "live",
+    "anchor": "a-15563248",
+    "url": "path-to-live.html#a-15563248",
+    "articleUrl": "en/articles/15563248-transition-what-happens-when-i-transition-from-sim-to-live"
+  },
+  "15563268": {
+    "page": "path-to-live",
+    "tab": "live",
+    "anchor": "a-15563268",
+    "url": "path-to-live.html#a-15563268",
+    "articleUrl": "en/articles/15563268-live-account-specifications-what-are-the-live-account-specifications"
+  },
+  "15563305": {
+    "page": "path-to-live",
+    "tab": "payouts",
+    "anchor": "a-15563305",
+    "url": "path-to-live.html#a-15563305",
+    "articleUrl": "en/articles/15563305-payouts-on-live-how-do-live-account-payouts-work"
+  },
+  "15563313": {
+    "page": "path-to-live",
+    "tab": "restrictions",
+    "anchor": "a-15563313",
+    "url": "path-to-live.html#a-15563313",
+    "articleUrl": "en/articles/15563313-breach-cooldown-what-happens-if-a-live-account-breaches"
+  },
+  "15563326": {
+    "page": "path-to-live",
+    "tab": "restrictions",
+    "anchor": "a-15563326",
+    "url": "path-to-live.html#a-15563326",
+    "articleUrl": "en/articles/15563326-multi-account-restrictions-path-to-live-restrictions-multi-account-rules"
+  },
+  "15563336": {
+    "page": "path-to-live",
+    "tab": "faq",
+    "anchor": "a-15563336",
+    "url": "path-to-live.html#a-15563336",
+    "articleUrl": "en/articles/15563336-common-questions-path-to-live-frequently-asked-questions"
+  },
+  "15692549": {
+    "page": "account-security",
+    "tab": "ip",
+    "anchor": "a-15692549",
+    "url": "account-security.html#a-15692549",
+    "articleUrl": "en/articles/15692549-ip-address-policy"
+  },
+  "15945150": {
+    "page": "trading-rules",
+    "tab": "automation",
+    "anchor": "a-15945150",
+    "url": "trading-rules.html#a-15945150",
+    "articleUrl": "en/articles/15945150-signals-copy-trading-and-automated-strategies"
+  },
+  "16097711": {
+    "page": "trading-rules",
+    "tab": "prohibited",
+    "anchor": "a-16097711",
+    "url": "trading-rules.html#a-16097711",
+    "articleUrl": "en/articles/16097711-gap-trading"
+  },
+  "16186573": {
+    "page": "instant-lite",
+    "tab": null,
+    "anchor": "",
+    "url": "instant-lite.html",
+    "articleUrl": "en/articles/16186573-what-are-the-instant-lite-plan-specifications"
+  },
+  "16264579": {
+    "page": "payouts",
+    "tab": "requirements",
+    "anchor": "a-16264579",
+    "url": "payouts.html#a-16264579",
+    "articleUrl": "en/articles/16264579-what-are-the-requirements-for-recurring-payouts"
+  },
+  "16863077": {
+    "page": "payouts",
+    "tab": "consistency",
+    "anchor": "a-16863077",
+    "url": "payouts.html#a-16863077",
+    "articleUrl": "en/articles/16863077-what-is-the-daily-progression-rule-on-daily-payouts"
+  },
+  "16863083": {
+    "page": "drawdown",
+    "tab": "daily",
+    "anchor": "a-16863083",
+    "url": "drawdown.html#a-16863083",
+    "articleUrl": "en/articles/16863083-the-daily-loss-limit-on-daily-payouts-and-what-happens-if-you-hit-it-three-times"
+  },
+  "16863088": {
+    "page": "drawdown",
+    "tab": "trailing",
+    "anchor": "a-16863088",
+    "url": "drawdown.html#a-16863088",
+    "articleUrl": "en/articles/16863088-why-does-my-funded-daily-payouts-account-use-intraday-trailing-drawdown"
+  },
+  "16863098": {
+    "page": "payouts",
+    "tab": "timing",
+    "anchor": "a-16863098",
+    "url": "payouts.html#a-16863098",
+    "articleUrl": "en/articles/16863098-how-the-24-hour-payout-cycle-works-on-daily-payouts"
+  },
+  "16863107": {
+    "page": "plans",
+    "tab": "plans",
+    "anchor": "a-16863107",
+    "url": "plans.html#a-16863107",
+    "articleUrl": "en/articles/16863107-daily-payouts-or-flex-challenge-which-should-i-choose"
+  },
+  "16863129": {
+    "page": "daily-payouts",
+    "tab": null,
+    "anchor": "",
+    "url": "daily-payouts.html",
+    "articleUrl": "en/articles/16863129-daily-payouts-specifications-rules-and-payouts"
+  }
+}

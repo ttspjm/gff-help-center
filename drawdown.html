@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="generator" content="help-center">
+<title>Drawdown and loss limits | Goat Funded Futures FAQ's</title>
+<meta name="robots" content="noindex,follow">
+<meta name="description" content="Learn more">
+<meta property="og:title" content="Drawdown and loss limits | Goat Funded Futures FAQ's">
+<meta name="twitter:title" content="Drawdown and loss limits | Goat Funded Futures FAQ's">
+<meta property="og:description" content="Learn more">
+<meta name="twitter:description" content="Learn more">
+<link rel="icon" href="assets/favicon.png">
+<link rel="stylesheet" href="assets/help.css">
+<link rel="stylesheet" href="assets/brand.css">
+</head>
+<body data-page="drawdown">
+<main class="article">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="index.html">Help Center</a> / Rules / Drawdown and loss limits</nav>
+<h1>Drawdown and loss limits</h1>
+<div class="tabs" role="tablist"><button type="button" role="tab" data-tab="trailing" class="on">Trailing drawdown</button><button type="button" role="tab" data-tab="daily">Daily loss limit</button><button type="button" role="tab" data-tab="breach">Breaches</button></div>
+<section class="panel on" data-panel="trailing">
+<nav class="in-tab" aria-label="In this tab"><div class="eyebrow">In this tab</div><ul><li><a href="#a-14110198">What is a trailing drawdown?</a></li><li><a href="#a-14110308">What is the difference between EOD trailing and intraday trailing drawdown?</a></li><li><a href="#a-14110312">How does intraday trailing drawdown work?</a></li><li><a href="#a-14110319">What does &quot;drawdown lock&quot; or &quot;DD Lock&quot; mean?</a></li><li><a href="#a-16863088">Why does my funded Daily Payouts account use intraday trailing drawdown?</a></li></ul></nav>
+<div class="sec" id="a-14110198"><h2>What is a trailing drawdown?</h2></div>
+<p>A trailing drawdown is a loss level that moves upward as your account reaches new highs, but never moves back down. Think of it as a rising floor beneath your account. It follows your profits up but stays put when you give back. If your account equity falls to or below this level, the account is breached.</p>
+<p>Once the drawdown floor reaches its lock point, it stays there permanently and stops trailing. This applies to all account types, both challenges and funded accounts. On most plans the lock point is your initial starting balance. On Daily Payouts and Instant Lite it is your starting balance plus $100.</p>
+<p>There are two types of trailing drawdown at GOAT Funded Futures.</p>
+<h4 id="a-14110198-h_23cdd7e9c5">1. Trailing EOD (end of day)</h4>
+<p>Used on EOD, 1-Day-Pass-Plan, Flex and Instant Lite accounts, and on Daily Payouts during the evaluation. The drawdown floor only updates at the end of each trading day, based on your closing balance.</p>
+<p>Example (50K account, $2,000 max drawdown):</p>
+<ul><li>You start at $50,000, so your floor is $48,000.</li><li>You close the day at $51,500, so your floor moves up to $49,500.</li><li>During the next day your equity dips to $49,200 intraday but you close at $50,800. No breach, because the floor is based on your end of day balance, not intraday equity.</li><li>Over time, your closing balances push the floor up to $50,000, your initial starting balance. The floor is now locked and will not trail any further.</li></ul>
+<h4 id="a-14110198-h_1b2399d3bc">2. Trailing intraday</h4>
+<p>Used on Instant Classic accounts and on Daily Payouts funded accounts. The drawdown floor updates in real time, tracking your highest equity point during the session, including unrealised profits on open positions.</p>
+<p>Example (50K account, $2,000 max drawdown):</p>
+<ul><li>You start at $50,000, so your floor is $48,000.</li><li>Your equity reaches $51,500 during a trade, so your floor moves up to $49,500 immediately.</li><li>If your equity drops to $49,500 at any point, even before closing the trade, the account is breached.</li><li>Your equity continues climbing to $52,000, so the floor moves to $50,000, your initial starting balance. The floor is now locked and will not trail any further.</li></ul>
+<h4 id="a-14110198-h_1b57916459">Daily Payouts uses both</h4>
+<p>The evaluation runs end of day trailing and the funded account switches to intraday trailing. See <a href="en/articles/16863088-why-does-my-funded-daily-payouts-account-use-intraday-trailing-drawdown" rel="noopener">the Daily Payouts drawdown article</a>.</p>
+<h4 id="a-14110198-h_921e50560a">Important note for funded accounts</h4>
+<p>Once the drawdown floor locks, your account has very little cushion below that level. For example, if you have grown your 50K account to $54,000 and withdraw $4,000 in profits, your balance returns to $50,000, which is exactly where the floor is locked. At that point any drop in equity at all will breach the account. Always keep a buffer in your account when making withdrawals.</p>
+<p class="updated after">Updated 8 September 2026</p>
+<div class="sec" id="a-14110308"><h2>What is the difference between EOD trailing and intraday trailing drawdown?</h2></div>
+<p>The key difference is <i>when</i> the drawdown floor updates.</p>
+<h4 id="a-14110308-h_cd8cfe8a3b">EOD trailing drawdown</h4>
+<p>Used on EOD, 1-Day-Pass-Plan, Flex and Instant Lite accounts, and on Daily Payouts during the evaluation.</p>
+<p>The drawdown floor only updates at the end of each trading day, based on your closing balance. Intraday equity swings do not affect your drawdown level.</p>
+<p>For example, if your account peaks at $52,000 during the session but closes at $50,500, the drawdown floor adjusts based on $50,500 only.</p>
+<h4 id="a-14110308-h_b32b2cfa66">Intraday trailing drawdown</h4>
+<p>Used on Instant Classic accounts and on Daily Payouts funded accounts.</p>
+<p>The drawdown floor updates in real time as your equity reaches new highs, including unrealised profits on open positions. If your equity hits $52,000 even momentarily, the drawdown floor adjusts immediately and never moves back down.</p>
+<h4 id="a-14110308-h_50f3bd0bb2">Daily Payouts uses both</h4>
+<p>The evaluation runs end of day trailing, and the funded account switches to intraday trailing on your highest equity. See <a href="en/articles/16863088-why-does-my-funded-daily-payouts-account-use-intraday-trailing-drawdown" rel="noopener">the Daily Payouts drawdown article</a> for what changes when you get funded.</p>
+<p class="updated after">Updated 8 September 2026</p>
+<div class="sec" id="a-14110312"><h2>How does intraday trailing drawdown work?</h2></div>
+<p>The Maximum Trailing Intraday Drawdown sets the lowest equity level your account is allowed to reach at any point during a trading session, including on open positions. It trails your highest equity point in real time, meaning as your account reaches new equity highs, the drawdown floor automatically moves up by the same amount. It never moves back down.</p>
+<p>Two plans use intraday trailing: <b>Instant Classic</b>, and <b>Daily Payouts funded accounts</b>. EOD, 1-Day-Pass-Plan, Flex, Instant Lite and the Daily Payouts evaluation all use end of day trailing, where the floor is calculated from your closing balance and only updates after the trading day ends.</p>
+<p>This is important to understand: the drawdown floor tracks your highest equity, not your closing balance. Even if you give back profits before closing a trade, the floor will have already moved up.</p>
+<p>Once the drawdown floor reaches its lock point, it stays there permanently and stops trailing. On Instant Classic the lock point is your initial starting balance. On Daily Payouts it is your starting balance plus $100.</p>
+<p><b>Example (Instant Classic 50K account, $2,000 max drawdown):</b></p>
+<ul><li>Your account starts at $50,000, so the max drawdown floor is set at $48,000.</li><li>Your equity rises to $51,000 during a trade, so the floor moves up to $49,000.</li><li>If your equity drops to $49,000 at any point, the account is breached, even if the trade has not been closed.</li><li>Your equity continues climbing to $52,000, so the floor moves to $50,000, your initial starting balance. The floor is now locked and will not trail any further.</li><li>Even if your equity later reaches $55,000, the floor stays at $50,000.</li></ul>
+<p>On a funded Daily 50K the same mechanics apply, but the floor locks at $50,100 once your equity reaches $52,100. See <a href="en/articles/16863088-why-does-my-funded-daily-payouts-account-use-intraday-trailing-drawdown" rel="noopener">the Daily Payouts drawdown article</a>.</p>
+<p><b>Important note for funded accounts:</b> once the drawdown floor locks, your account has very little cushion below that level. For example, if you have grown your Instant Classic 50K account to $54,000 and withdraw $4,000 in profits, your balance returns to $50,000, which is exactly where the floor is locked. At that point any drop in equity at all will breach the account. Always keep a buffer in your account when making withdrawals.</p>
+<p class="updated after">Updated 8 September 2026</p>
+<div class="sec" id="a-14110319"><h2>What does &quot;drawdown lock&quot; or &quot;DD Lock&quot; mean?</h2></div>
+<h4 id="a-14110319-h_f4771b9d52">Important for Funded Accounts</h4>
+<p>The drawdown continues to trail normally as your account reaches new equity highs until it reaches your account's initial starting balance. Once it reaches the starting balance, it locks permanently and will not trail any higher.</p>
+<p>On Daily Payouts and Instant Lite the lock point is your starting balance plus $100, not your starting balance. On a Daily 50K the limit locks at $50,100 once your equity reaches $52,100.</p>
+<p>Requesting or receiving a payout does not automatically move or lock your drawdown at the starting balance. Your drawdown remains wherever it was before the payout.</p>
+<p><b>Example</b></p>
+<p>On a $50,000 funded account:</p>
+<ul><li>Current account balance: $51,000</li><li>Current drawdown floor: $49,000</li></ul>
+<p>If you request a $1,000 payout, your account balance becomes $50,000, but your drawdown floor remains at $49,000 because it had not yet reached the starting balance before the payout.</p>
+<p>This means you now have $1,000 of remaining drawdown room.</p>
+<p>Only after the drawdown naturally reaches your account's initial starting balance does it lock permanently.</p>
+<p>Once the drawdown has locked, it will remain there even after future payouts. If your balance later falls below that level, the account will be breached.</p>
+<h4 id="a-14110319-h_1ec6304a40">Does requesting a payout lock my drawdown at the starting balance?</h4>
+<p>No. Requesting or receiving a payout does not change the position of your drawdown floor.</p>
+<p>The drawdown continues to trail according to your account rules until it naturally reaches your lock point. Only then does it lock permanently.</p>
+<p>If the drawdown has not yet reached the lock point before the payout, it will remain at its current level after the payout.</p>
+<p class="updated after">Updated 8 September 2026</p>
+<div class="sec" id="a-16863088"><h2>Why does my funded Daily Payouts account use intraday trailing drawdown?</h2></div>
+<p>Daily Payouts uses a different drawdown method in each phase.</p>
+<ul><li><b>Evaluation: end of day trailing.</b> Your limit moves up with your profits once, at the end of each trading day.</li><li><b>Funded: intraday trailing.</b> Your limit moves up in real time, tracking your highest equity, including unrealised profit on open positions.</li></ul>
+<h4 id="a-16863088-h_70f28f5f2d"><b>What changes when you get funded</b></h4>
+<p>In the evaluation, an open position that runs to a large unrealised profit and then gives it back costs you nothing in drawdown terms. Only the end of day figure counts.</p>
+<p>On the funded account, that same trade permanently raises your drawdown limit at the peak. If the position reverses, the limit stays where it moved to.</p>
+<h4 id="a-16863088-h_5d1ae33119"><b>Example: Daily 50K funded</b></h4>
+<p>Your drawdown is $2,000, so from a $50,000 start your limit is $48,000.</p>
+<p>You open a position. Your equity peaks at $51,400 while the position is still open. Your limit moves immediately to $49,400 and stays there.</p>
+<p>The trade reverses and you close it flat at $50,000. Your limit is still $49,400. You now have $600 of room, not the $2,000 you started with.</p>
+<h4 id="a-16863088-h_1765320e20"><b>When does it stop moving?</b></h4>
+<p>The limit stops trailing permanently once it reaches your starting balance plus $100.</p>
+<p>On a 50K that means once your equity touches $52,100, the limit locks at $50,100 for the life of the account. From then on it never moves again, up or down, and your account can only be closed by falling below $50,100.</p>
+<p>EOD, 1-Day-Pass-Plan, Flex and Instant Classic all lock at the starting balance, with no $100 added. Instant Lite uses the same plus $100 lock point as Daily.</p>
+<h4 id="a-16863088-h_f01d6897ff"><b>Does taking a payout move my limit?</b></h4>
+<p>No. Requesting and receiving a payout does not move or lock the drawdown limit. Your balance goes down by the payout amount, and the limit stays exactly where it was.</p>
+<p>This matters most on the 25K. After a maximum $650 payout from the $26,100 minimum balance, you are at $25,450 against a floor locked at $25,100, which is $350 of room. On the 50K you would have $1,000, on the 100K $1,500, on the 150K $2,000.</p>
+<h4 id="a-16863088-h_5d0aeda408"><b>How to trade with it</b></h4>
+<p>Two habits help:</p>
+<ol class="steps"><li>Watch your peak equity, not your balance. The number that matters is the highest your equity has been, not where it closed.</li><li>Treat unrealised profit as spent. If a position runs $1,000 in your favour, assume $1,000 of your drawdown room has gone, because it has.</li></ol>
+<h4 id="a-16863088-h_7f425dd872"><b>Which plans use which method</b></h4>
+<div class="table-wrap wide"><table><thead><tr><th><b>Plan</b></th><th><b>Evaluation</b></th><th><b>Funded</b></th></tr></thead><tbody><tr><td>Daily Payouts</td><td>End of day trailing</td><td>Intraday trailing</td></tr><tr><td>EOD Challenge</td><td>End of day trailing</td><td>End of day trailing</td></tr><tr><td>1-Day-Pass-Plan</td><td>End of day trailing</td><td>End of day trailing</td></tr><tr><td>Flex Challenge</td><td>End of day trailing</td><td>End of day trailing</td></tr><tr><td>Instant Classic</td><td>No evaluation</td><td>Intraday trailing</td></tr><tr><td>Instant Lite</td><td>No evaluation</td><td>End of day trailing</td></tr></tbody></table></div>
+<p class="updated after">Updated 8 September 2026</p>
+</section>
+<section class="panel" data-panel="daily">
+<nav class="in-tab" aria-label="In this tab"><div class="eyebrow">In this tab</div><ul><li><a href="#a-14110328">Is there a daily loss limit?</a></li><li><a href="#a-16863083">The daily loss limit on Daily Payouts, and what happens if you hit it three times</a></li></ul></nav>
+<div class="sec" id="a-14110328"><h2>Is there a daily loss limit?</h2></div>
+<p>This depends on your account type.</p>
+<h3 id="a-14110328-h_dll_eod">EOD Challenge</h3>
+<ul><li>Evaluation: none.</li><li>Funded: 2.5% of your starting balance, so $1,250 on a 50K, $2,500 on a 100K, $3,750 on a 150K.</li></ul>
+<h3 id="a-14110328-h_dll_1dpp">1-Day-Pass-Plan</h3>
+<p>A daily loss limit applies in both phases, at the same percentage in each.</p>
+<ul><li>25K: 2.4%, which is $600</li><li>50K: 2%, which is $1,000</li><li>100K: 2%, which is $2,000</li></ul>
+<h3 id="a-14110328-h_dll_ic">Instant Classic</h3>
+<p>3% of your starting balance, so $750 on a 25K, $1,500 on a 50K, $3,000 on a 100K, $4,500 on a 150K.</p>
+<h3 id="a-14110328-h_dll_il">Instant Lite</h3>
+<ul><li>25K: none</li><li>50K: 2%, which is $1,000</li><li>100K: 2%, which is $2,000</li></ul>
+<h3 id="a-14110328-h_dll_flex">Flex Challenge</h3>
+<p>None, in either phase.</p>
+<h3 id="a-14110328-h_dll_daily">Daily Payouts</h3>
+<p>A daily loss limit applies in both phases.</p>
+<ul><li>25K: 2%, which is $500</li><li>50K: 2%, which is $1,000</li><li>100K: 1.5%, which is $1,500</li><li>150K: 1.5%, which is $2,250</li></ul>
+<h3 id="a-14110328-h_dll_what">What happens when you reach it</h3>
+<p>On every plan, hitting the daily loss limit is a soft breach, not a hard one. Your open positions are closed and the account is paused for the rest of the trading day. It resumes automatically on the next trading day, and the account is not closed.</p>
+<h3 id="a-14110328-h_dll_three">Daily Payouts has one extra rule</h3>
+<p>If you hit the daily loss limit three times within any rolling 30 day period, the third hit is treated as a hard breach and your account is closed. See <a href="en/articles/16863083-the-daily-loss-limit-on-daily-payouts-and-what-happens-if-you-hit-it-three-times" rel="noopener">the Daily Payouts daily loss limit article</a> for how the rolling window works and where to see your count.</p>
+<p>Instant Lite also closes the account on a third hit. See the Instant Lite specifications for details.</p>
+<p>For the exact figure on your account, check your dashboard.</p>
+<p class="updated after">Updated 8 September 2026</p>
+<div class="sec" id="a-16863083"><h2>The daily loss limit on Daily Payouts, and what happens if you hit it three times</h2></div>
+<p>A daily loss limit applies to Daily Payouts in both the evaluation and the funded phase. It is the most you may lose in a single trading day.</p>
+<div class="table-wrap"><table><thead><tr><th><b>Account size</b></th><th><b>Daily loss limit</b></th></tr></thead><tbody><tr><td>25K</td><td>$500 (2%)</td></tr><tr><td>50K</td><td>$1,000 (2%)</td></tr><tr><td>100K</td><td>$1,500 (1.5%)</td></tr><tr><td>150K</td><td>$2,250 (1.5%)</td></tr></tbody></table></div>
+<h4 id="a-16863083-h_dff88c294f"><b>What happens when you hit it</b></h4>
+<p>Your open positions are closed and trading is paused for the rest of the day. The account is not closed and nothing is deducted. You can trade again in the next session.</p>
+<p>That is a soft breach, and it works the same way as on our other plans.</p>
+<h4 id="a-16863083-h_45967f57d5"><b>The third hit is different</b></h4>
+<p>If you hit the daily loss limit three times within any rolling 30 day period, the third hit is treated as a hard breach and your account is closed.</p>
+<p>On EOD, 1-Day-Pass-Plan, Flex and Instant Classic, hitting the daily loss limit is always a soft breach with no strike count.</p>
+<p>Instant Lite also closes the account on a third hit. The difference is the window: Daily Payouts counts hits inside a rolling 30 day period, so old hits drop off, while Instant Lite counts three hits over the life of the account.</p>
+<h4 id="a-16863083-h_40c1e65e7b"><b>How the rolling 30 days works</b></h4>
+<p>It is a rolling window, not a calendar month. Every hit stays on the count for 30 days from the day it happened, then drops off.</p>
+<p>Example: You hit the limit on 3 March and again on 20 March. On 1 April you have one hit still counting, because the 3 March hit has rolled off. A hit on 1 April would be your second, not your third.</p>
+<h4 id="a-16863083-h_a887874999"><b>Where can I see my count?</b></h4>
+<p>Your dashboard shows how many daily loss limit hits you have in the current rolling 30 day window.</p>
+<h4 id="a-16863083-h_4cc5fcb1b8"><b>Why the rule exists</b></h4>
+<p>The daily loss limit is there to stop a single bad session ending an account. A trader who hits it repeatedly inside a month is not having one bad session, they are running a risk profile the account cannot support. The strike rule ends that before it reaches the maximum drawdown.</p>
+<h4 id="a-16863083-h_fb0e36d4c6"><b>Can I remove the daily loss limit?</b></h4>
+<p>Not at the moment. Daily Payouts accounts are sold with the daily loss limit enabled.</p>
+<p class="updated after">Updated 8 September 2026</p>
+</section>
+<section class="panel" data-panel="breach">
+<nav class="in-tab" aria-label="In this tab"><div class="eyebrow">In this tab</div><ul><li><a href="#a-14110334">What happens if I breach the drawdown or daily loss limit?</a></li><li><a href="#a-14111168">I believe my account was wrongfully breached, what do I do?</a></li><li><a href="#a-14644197">Can I reset my Funded account?</a></li></ul></nav>
+<div class="sec" id="a-14110334"><h2>What happens if I breach the drawdown or daily loss limit?</h2></div>
+<p>It depends which limit you hit.</p>
+<h4 id="a-14110334-h_0b6673d56d">The daily loss limit is a soft breach</h4>
+<p>Your open positions are closed and trading is paused for the rest of the trading day. It resumes automatically on the next trading day, and your account is not closed. A daily loss limit applies to EOD funded accounts, to 1-Day-Pass-Plan in both phases, to Instant Classic, to Instant Lite on the 50K and 100K, and to Daily Payouts in both phases. Flex has none.</p>
+<p>On Daily Payouts, hitting the daily loss limit three times within a rolling 30 day period is a hard breach and closes the account. The first two hits pause trading for the rest of the day in the normal way. See <a href="en/articles/16863083-the-daily-loss-limit-on-daily-payouts-and-what-happens-if-you-hit-it-three-times" rel="noopener">the Daily Payouts daily loss limit article</a>. Instant Lite also closes the account on a third hit, see the Instant Lite specifications.</p>
+<h4 id="a-14110334-h_44e554ea1a">The maximum drawdown is a hard breach</h4>
+<p>If your balance or equity falls to or below your drawdown floor, the account is closed immediately. This applies in both the evaluation and funded phases, on every plan.</p>
+<h4 id="a-14110334-h_bcd4663941">Can a breached account be reset?</h4>
+<p>A breached evaluation account can be reset up to twice, including on Daily Payouts. A breached Instant Classic or Instant Lite account cannot be reset. Funded account resets are available on EOD 50K and 100K accounts only, before your first payout, and are not available on Daily Payouts.</p>
+<p class="updated after">Updated 8 September 2026</p>
+<details class="acc" id="a-14111168"><summary>I believe my account was wrongfully breached, what do I do?</summary><div class="acc-body">
+<p>Before contacting support, please check the following:</p>
+<ol class="steps"><li>Log into your dashboard and compare your account equity against the drawdown limit. If your equity is at or below the drawdown level, the breach is correct.</li><li>Check whether you had any open positions with unrealized losses that may have pushed your equity below the limit. Drawdown calculations include unrealized P&amp;L, commissions, and fees.</li><li>Check whether your account has been inactive for more than 7 consecutive days, as this will also trigger a breach.</li></ol>
+<p>If after reviewing the above you still believe the breach was made in error, contact support with your account ID and a description of what happened.</p>
+</div></details>
+<div class="sec" id="a-14644197"><h2>Can I reset my Funded account?</h2></div>
+<p>Yes, funded account resets are available, with the following conditions.</p>
+<h4 id="a-14644197-h_fb21872aa4">Eligibility</h4>
+<ul><li>Available <b>only on EOD 50K and 100K funded accounts</b></li><li>Not available on 1-Day-Pass-Plan, Instant Classic, Instant Lite, Daily Payouts, or other EOD account sizes</li><li>Available <b>only before your first payout</b>. Once an approved withdrawal has been processed on the account, the reset option is permanently blocked</li></ul>
+<h4 id="a-14644197-h_6296b6ff47">Pricing</h4>
+<ul><li><b>50K EOD:</b> $499 (1st reset) / $599 (2nd reset)</li><li><b>100K EOD:</b> $599 (1st reset) / $699 (2nd reset)</li></ul>
+<h4 id="a-14644197-h_e4256295e6">Limits</h4>
+<p>Maximum 2 resets per account.</p>
+<h4 id="a-14644197-h_343c2dd22b">Daily Payouts</h4>
+<p>Daily Payouts funded accounts cannot be reset. If a funded account is breached, a new evaluation must be purchased. Daily Payouts evaluations can be reset twice in the normal way.</p>
+<h4 id="a-14644197-h_614430e2e2">Why the reset option may not appear on your account</h4>
+<ul><li>The account isn't a 50K or 100K EOD funded account</li><li>You've already received an approved payout</li><li>You've already used both resets</li><li>The account is closed for a reason that doesn't qualify for reset</li></ul>
+<p><i>If you believe you're eligible but don't see the option, contact support.</i></p>
+<p class="updated after">Updated 8 September 2026</p>
+</section>
+<p class="to-top"><a href="#top">Back to top</a></p>
+</main>
+<script src="assets/site.js"></script>
+<script src="assets/search.js"></script>
+<script src="assets/help.js"></script>
+</body>
+</html>
