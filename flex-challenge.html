@@ -25,7 +25,7 @@
 <div class="table-wrap wide"><table><thead><tr><th></th><th><b>Flex 50K</b></th><th><b>Flex 100K</b></th><th><b>Flex 150K</b></th></tr></thead><tbody><tr><td>Price</td><td>$119 (from $238)</td><td>$199 (from $398)</td><td>$289 (from $578)</td></tr><tr><td>Price with daily loss limit</td><td>$79 (from $158)</td><td>$149 (from $298)</td><td>$219 (from $438)</td></tr><tr><td>Profit Target</td><td>$3,000 (6%)</td><td>$6,000 (6%)</td><td>$9,000 (6%)</td></tr><tr><td>Reset Price</td><td>$109</td><td>$189</td><td>$269</td></tr><tr><td>Reset price with daily loss limit</td><td>$74</td><td>$139</td><td>$209</td></tr><tr><td>Activation Fee</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>Time Limit</td><td>None</td><td>None</td><td>None</td></tr></tbody></table></div>
 <p>The Flex Challenge is a one-phase evaluation with no time limit, no daily loss limit unless you add one at checkout, and no consistency rule once you are funded.</p>
 <h3 id="key-benefits">Key benefits</h3>
-<ul><li>No time limit to pass the evaluation</li><li>No daily loss limit, in evaluation or funded. You can add one at checkout for a lower price</li><li>No consistency rule on the funded account</li><li>The 2 minute microscalping rule does not apply</li><li>End of day trailing max drawdown, which locks once it reaches your starting balance</li><li>80/20 profit split by default, with an optional 90/10 add-on</li><li>$0 activation fee, so your funded account is activated at no extra cost</li></ul>
+<ul><li>No time limit to pass the evaluation</li><li>No daily loss limit, in evaluation or funded. You can add one at checkout for a lower price</li><li>No consistency rule on the funded account</li><li>No per-trade holding deduction: the 1 minute rule is checked only at payout</li><li>End of day trailing max drawdown, which locks once it reaches your starting balance</li><li>80/20 profit split by default, with an optional 90/10 add-on</li><li>$0 activation fee, so your funded account is activated at no extra cost</li></ul>
 <h3 id="pricing-targets">Pricing &amp; Targets</h3>
 <p>Two resets are available per challenge. You can hold up to 5 funded accounts. If your account has the daily loss limit option, the reset account keeps it.</p>
 <h3 id="how-to-pass">How to pass</h3>
@@ -64,12 +64,12 @@
 </section>
 <section class="panel" data-panel="rules">
 <div class="sec" id="holding-time-the-1-minute-rule"><h2>Holding time: the 1 minute rule</h2></div>
-<p>Flex uses its own holding-time rule instead of the 2 minute microscalping rule that applies to the other plans.</p>
-<p>At each payout request, both of the following must be true for that payout cycle:</p>
-<ul><li>at least 50% of your closed trades were held longer than 1 minute, and</li><li>at least 50% of your net profit came from trades held longer than 1 minute.</li></ul>
+<p>Flex uses the same 1 minute holding rule as every GFF plan.</p>
+<p>When you pass the evaluation and at each payout request, both of the following must be true:</p>
+<ul><li>at least 70% of your closed trades were held longer than 1 minute, and</li><li>at least 70% of your net profit came from trades held longer than 1 minute.</li></ul>
 <p>If either is not met, the payout request is declined and all profit from trades held under 1 minute in that cycle is deducted from the account. This is not an account breach, and your account stays open.</p>
-<h3 id="how-this-differs-from-the-other-rules">How this differs from the other rules</h3>
-<ul><li><b>The 1 minute rule</b>, above, applies to Flex only.</li><li><b>The microscalping rule</b>, which deducts profit from any trade closed within 2 minutes, applies to EOD, 1-Day-Pass-Plan and Instant Classic. It does not apply to Flex.</li><li><b>Tick scalping</b>, meaning opening and closing positions within seconds to capture small tick profits, is not permitted on any account, including Flex. Profit generated this way may be reviewed and deducted.</li></ul>
+<h3 id="how-this-fits-with-the-other-rules">How this fits with the other rules</h3>
+<ul><li><b>The 1 minute rule</b>, above, applies to every GFF plan.</li><li><b>The 2 minute microscalping rule</b> no longer applies on any plan.</li><li><b>Tick scalping</b>, meaning opening and closing positions within seconds to capture small tick profits, is not permitted on any account, including Flex. Profit generated this way may be reviewed and deducted.</li></ul>
 <h3 id="can-i-make-one-big-day-and-get-paid">Can I make one big day and get paid?</h3>
 <p>Yes. No consistency rule on funded means we do not dictate how your profit is spread across your trading days. You can have big days and quiet days and still qualify for a payout. That freedom stays.</p>
 <p>What it does not allow is deliberately loading nearly all of your profit into one day, then placing bare minimum trades purely to tick off the remaining winning days and unlock a withdrawal. That is not a strategy with an edge, it is gaming the payout requirement. It also closely mirrors external and cross account hedging, where one leg of a position is offset on a separate account or at another firm, so the losing side is sacrificed and the winning side is withdrawn here as profit. Where this is detected the payout may be withheld, the concentrated day's profit voided, and the account closed.</p>
@@ -82,7 +82,7 @@
 <p>Place at least one trade every 14 days. If no trades are placed for 14 consecutive days the account is breached and closed, and the fee is not refunded. This 14-day rule applies from 7 November 2026. There is no time limit on passing the evaluation, but the account does need to stay active. If you are going to be away, tell support in advance.</p>
 <p><i>Please monitor our website and Discord for announcements about trading parameters, updates, or system changes.</i></p>
 </section>
-<p class="updated after">Updated 7 November 2026</p>
+<p class="updated after">Updated 9 November 2026</p>
 <p class="to-top"><a href="#top">Back to top</a></p>
 </main>
 <script src="assets/site.js"></script>
