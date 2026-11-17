@@ -775,5 +775,26 @@
     "anchor": "a-17838201",
     "url": "get-started.html#a-17838201",
     "articleUrl": "en/articles/17838201-goat-access-specifications-rules-and-payouts"
+  },
+  "18478207": {
+    "page": "get-started",
+    "tab": "account",
+    "anchor": "a-18478207",
+    "url": "get-started.html#a-18478207",
+    "articleUrl": "en/articles/18478207-what-is-the-transparency-dashboard"
+  },
+  "18478210": {
+    "page": "get-started",
+    "tab": "account",
+    "anchor": "a-18478210",
+    "url": "get-started.html#a-18478210",
+    "articleUrl": "en/articles/18478210-why-do-you-share-this-data-publicly"
+  },
+  "18478211": {
+    "page": "get-started",
+    "tab": "account",
+    "anchor": "a-18478211",
+    "url": "get-started.html#a-18478211",
+    "articleUrl": "en/articles/18478211-how-often-is-the-transparency-dashboard-updated"
   }
 }
