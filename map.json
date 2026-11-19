@@ -798,10 +798,10 @@
     "articleUrl": "en/articles/18478211-how-often-is-the-transparency-dashboard-updated"
   },
   "18512995": {
-    "page": "get-started",
-    "tab": "about",
-    "anchor": "a-18512995",
-    "url": "get-started.html#a-18512995",
+    "page": "instant",
+    "tab": null,
+    "anchor": "",
+    "url": "instant.html",
     "articleUrl": "en/articles/18512995-instant-specifications-rules-and-payouts"
   }
 }
