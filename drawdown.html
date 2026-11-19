@@ -24,7 +24,7 @@
 <nav class="in-tab" aria-label="In this tab"><div class="eyebrow">In this tab</div><ul><li><a href="#a-14110198">What is a trailing drawdown?</a></li><li><a href="#a-14110308">What is the difference between EOD trailing and intraday trailing drawdown?</a></li><li><a href="#a-14110312">How does intraday trailing drawdown work?</a></li><li><a href="#a-14110319">What does &quot;drawdown lock&quot; or &quot;DD Lock&quot; mean?</a></li><li><a href="#a-16863088">Why does my funded Daily Payouts account use intraday trailing drawdown?</a></li></ul></nav>
 <div class="sec" id="a-14110198"><h2>What is a trailing drawdown?</h2></div>
 <p>A trailing drawdown is a loss level that moves upward as your account reaches new highs, but never moves back down. Think of it as a rising floor beneath your account. It follows your profits up but stays put when you give back. If your account equity falls to or below this level, the account is breached.</p>
-<p>Once the drawdown floor reaches its lock point, it stays there permanently and stops trailing. This applies to all account types, both challenges and funded accounts. On most plans the lock point is your initial starting balance. On Daily Payouts and Instant Lite it is your starting balance plus $100.</p>
+<p>Once the drawdown floor reaches its lock point, it stays there permanently and stops trailing. This applies to all account types, both challenges and funded accounts. On most plans the lock point is your initial starting balance. On Daily Payouts and Instant (Instant Lite included) it is your starting balance plus $100.</p>
 <p>There are two types of trailing drawdown at GOAT Funded Futures.</p>
 <h3 id="a-14110198-h_23cdd7e9c5">Trailing EOD (end of day)</h3>
 <p>Used on EOD, 1-Day-Pass-Plan, Flex and Instant accounts (Instant Lite included), and on Daily Payouts during the evaluation. The drawdown floor only updates at the end of each trading day, based on your closing balance.</p>
@@ -81,26 +81,26 @@
 <div class="sec" id="a-16863088"><h2>Why does my funded Daily Payouts account use intraday trailing drawdown?</h2></div>
 <p>Daily Payouts uses a different drawdown method in each phase.</p>
 <ul><li><b>Evaluation: end of day trailing.</b> Your limit moves up with your profits once, at the end of each trading day.</li><li><b>Funded: intraday trailing.</b> Your limit moves up in real time, tracking your highest equity, including unrealised profit on open positions.</li></ul>
-<h4 id="a-16863088-h_70f28f5f2d"><b>What changes when you get funded</b></h4>
+<h3 id="a-16863088-h_70f28f5f2d">What changes when you get funded</h3>
 <p>In the evaluation, an open position that runs to a large unrealised profit and then gives it back costs you nothing in drawdown terms. Only the end of day figure counts.</p>
 <p>On the funded account, that same trade permanently raises your drawdown limit at the peak. If the position reverses, the limit stays where it moved to.</p>
-<h4 id="a-16863088-h_5d1ae33119"><b>Example: Daily 50K funded</b></h4>
+<h3 id="a-16863088-h_5d1ae33119">Example: Daily 50K funded</h3>
 <p>Your drawdown is $2,000, so from a $50,000 start your limit is $48,000.</p>
 <p>You open a position. Your equity peaks at $51,400 while the position is still open. Your limit moves immediately to $49,400 and stays there.</p>
 <p>The trade reverses and you close it flat at $50,000. Your limit is still $49,400. You now have $600 of room, not the $2,000 you started with.</p>
-<h4 id="a-16863088-h_1765320e20"><b>When does it stop moving?</b></h4>
+<h3 id="a-16863088-h_1765320e20">When does it stop moving?</h3>
 <p>The limit stops trailing permanently once it reaches your starting balance plus $100.</p>
 <p>On a 50K that means once your equity touches $52,100, the limit locks at $50,100 for the life of the account. From then on it never moves again, up or down, and your account can only be closed by falling below $50,100.</p>
-<p>EOD, 1-Day-Pass-Plan, Flex and Instant Classic all lock at the starting balance, with no $100 added. Instant Lite uses the same plus $100 lock point as Daily.</p>
-<h4 id="a-16863088-h_f01d6897ff"><b>Does taking a payout move my limit?</b></h4>
+<p>EOD, 1-Day-Pass-Plan, Flex and Instant Classic all lock at the starting balance, with no $100 added. Instant and Instant Lite use the same plus $100 lock point as Daily.</p>
+<h3 id="a-16863088-h_f01d6897ff">Does taking a payout move my limit?</h3>
 <p>No. Requesting and receiving a payout does not move or lock the drawdown limit. Your balance goes down by the payout amount, and the limit stays exactly where it was.</p>
 <p>This matters most on the 25K. After a maximum $650 payout from the $26,100 minimum balance, you are at $25,450 against a floor locked at $25,100, which is $350 of room. On the 50K you would have $1,000, on the 100K $1,500, on the 150K $2,000.</p>
-<h4 id="a-16863088-h_5d0aeda408"><b>How to trade with it</b></h4>
+<h3 id="a-16863088-h_5d0aeda408">How to trade with it</h3>
 <p>Two habits help:</p>
 <ol class="steps"><li>Watch your peak equity, not your balance. The number that matters is the highest your equity has been, not where it closed.</li><li>Treat unrealised profit as spent. If a position runs $1,000 in your favour, assume $1,000 of your drawdown room has gone, because it has.</li></ol>
-<h4 id="a-16863088-h_7f425dd872"><b>Which plans use which method</b></h4>
+<h3 id="a-16863088-h_7f425dd872">Which plans use which method</h3>
 <div class="table-wrap wide"><table><thead><tr><th><b>Plan</b></th><th><b>Evaluation</b></th><th><b>Funded</b></th></tr></thead><tbody><tr><td>Daily Payouts</td><td>End of day trailing</td><td>Intraday trailing</td></tr><tr><td>EOD Challenge</td><td>End of day trailing</td><td>End of day trailing</td></tr><tr><td>1-Day-Pass-Plan</td><td>End of day trailing</td><td>End of day trailing</td></tr><tr><td>Flex Challenge</td><td>End of day trailing</td><td>End of day trailing</td></tr><tr><td>Instant Classic</td><td>No evaluation</td><td>Intraday trailing</td></tr><tr><td>Instant Lite</td><td>No evaluation</td><td>End of day trailing</td></tr></tbody></table></div>
-<p class="updated after">Updated 8 September 2026</p>
+<p class="updated after">Updated 19 November 2026</p>
 </section>
 <section class="panel" data-panel="daily">
 <nav class="in-tab" aria-label="In this tab"><div class="eyebrow">In this tab</div><ul><li><a href="#a-14110328">Is there a daily loss limit?</a></li><li><a href="#a-16863083">The daily loss limit on Daily Payouts</a></li></ul></nav>
