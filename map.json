@@ -803,5 +803,19 @@
     "anchor": "",
     "url": "instant.html",
     "articleUrl": "en/articles/18512995-instant-specifications-rules-and-payouts"
+  },
+  "18516777": {
+    "page": "path-to-live",
+    "tab": "qualify",
+    "anchor": "a-18516777",
+    "url": "path-to-live.html#a-18516777",
+    "articleUrl": "en/articles/18516777-cash-out-can-i-take-a-payout-instead-of-going-live"
+  },
+  "18516778": {
+    "page": "path-to-live",
+    "tab": "qualify",
+    "anchor": "a-18516778",
+    "url": "path-to-live.html#a-18516778",
+    "articleUrl": "en/articles/18516778-profit-vault-what-happens-to-my-unwithdrawn-sim-profit"
   }
 }
