@@ -37,7 +37,8 @@
       "14095302-eod-challenge-specifications-rules-and-payouts"
     ],
     "14095577": [
-      "14095577-1-day-pass-plan-specifications-rules-and-payouts"
+      "14095577-1-day-pass-plan-specifications-rules-and-payouts",
+      "14095577-1-day-pass-specifications-rules-and-payouts"
     ],
     "14095625": [
       "14095625-instant-classic-specifications-rules-and-payouts"
@@ -308,23 +309,29 @@
       "16264579-what-are-the-requirements-for-recurring-payouts"
     ],
     "16863077": [
-      "16863077-what-is-the-daily-progression-rule-on-daily-payouts"
+      "16863077-what-is-the-daily-progression-rule-on-daily-payouts",
+      "16863077-what-is-the-daily-progression-rule-on-goat-daily"
     ],
     "16863083": [
       "16863083-the-daily-loss-limit-on-daily-payouts-and-what-happens-if-you-hit-it-three-times",
-      "16863083-the-daily-loss-limit-on-daily-payouts"
+      "16863083-the-daily-loss-limit-on-daily-payouts",
+      "16863083-the-daily-loss-limit-on-goat-daily"
     ],
     "16863088": [
-      "16863088-why-does-my-funded-daily-payouts-account-use-intraday-trailing-drawdown"
+      "16863088-why-does-my-funded-daily-payouts-account-use-intraday-trailing-drawdown",
+      "16863088-why-does-my-funded-goat-daily-account-use-intraday-trailing-drawdown"
     ],
     "16863098": [
-      "16863098-how-the-24-hour-payout-cycle-works-on-daily-payouts"
+      "16863098-how-the-24-hour-payout-cycle-works-on-daily-payouts",
+      "16863098-how-the-24-hour-payout-cycle-works-on-goat-daily"
     ],
     "16863107": [
-      "16863107-daily-payouts-or-flex-challenge-which-should-i-choose"
+      "16863107-daily-payouts-or-flex-challenge-which-should-i-choose",
+      "16863107-goat-daily-or-flex-challenge-which-should-i-choose"
     ],
     "16863129": [
-      "16863129-daily-payouts-specifications-rules-and-payouts"
+      "16863129-daily-payouts-specifications-rules-and-payouts",
+      "16863129-goat-daily-specifications-rules-and-payouts"
     ],
     "17665880": [
       "17665880-can-i-trade-on-tradesea"
@@ -365,7 +372,8 @@
       "19037020-getting-started-general"
     ],
     "19038266": [
-      "19038266-1-day-pass-plan"
+      "19038266-1-day-pass-plan",
+      "19038266-1-day-pass"
     ],
     "19038413": [
       "19038413-payouts-consistency"
@@ -389,7 +397,8 @@
       "19715907-instant-lite"
     ],
     "19744262": [
-      "19744262-daily-payouts"
+      "19744262-daily-payouts",
+      "19744262-goat-daily"
     ],
     "19798581": [
       "19798581-goat-access"

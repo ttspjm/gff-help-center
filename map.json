@@ -88,7 +88,7 @@
     "tab": null,
     "anchor": "",
     "url": "1-day-pass.html",
-    "articleUrl": "en/articles/14095577-1-day-pass-plan-specifications-rules-and-payouts"
+    "articleUrl": "en/articles/14095577-1-day-pass-specifications-rules-and-payouts"
   },
   "14095625": {
     "page": "instant-classic",
@@ -718,42 +718,42 @@
     "tab": "consistency",
     "anchor": "a-16863077",
     "url": "payouts.html#a-16863077",
-    "articleUrl": "en/articles/16863077-what-is-the-daily-progression-rule-on-daily-payouts"
+    "articleUrl": "en/articles/16863077-what-is-the-daily-progression-rule-on-goat-daily"
   },
   "16863083": {
     "page": "drawdown",
     "tab": "daily",
     "anchor": "a-16863083",
     "url": "drawdown.html#a-16863083",
-    "articleUrl": "en/articles/16863083-the-daily-loss-limit-on-daily-payouts"
+    "articleUrl": "en/articles/16863083-the-daily-loss-limit-on-goat-daily"
   },
   "16863088": {
     "page": "drawdown",
     "tab": "trailing",
     "anchor": "a-16863088",
     "url": "drawdown.html#a-16863088",
-    "articleUrl": "en/articles/16863088-why-does-my-funded-daily-payouts-account-use-intraday-trailing-drawdown"
+    "articleUrl": "en/articles/16863088-why-does-my-funded-goat-daily-account-use-intraday-trailing-drawdown"
   },
   "16863098": {
     "page": "payouts",
     "tab": "timing",
     "anchor": "a-16863098",
     "url": "payouts.html#a-16863098",
-    "articleUrl": "en/articles/16863098-how-the-24-hour-payout-cycle-works-on-daily-payouts"
+    "articleUrl": "en/articles/16863098-how-the-24-hour-payout-cycle-works-on-goat-daily"
   },
   "16863107": {
     "page": "plans",
     "tab": "plans",
     "anchor": "a-16863107",
     "url": "plans.html#a-16863107",
-    "articleUrl": "en/articles/16863107-daily-payouts-or-flex-challenge-which-should-i-choose"
+    "articleUrl": "en/articles/16863107-goat-daily-or-flex-challenge-which-should-i-choose"
   },
   "16863129": {
     "page": "daily-payouts",
     "tab": null,
     "anchor": "",
     "url": "daily-payouts.html",
-    "articleUrl": "en/articles/16863129-daily-payouts-specifications-rules-and-payouts"
+    "articleUrl": "en/articles/16863129-goat-daily-specifications-rules-and-payouts"
   },
   "17665880": {
     "page": "platforms",
